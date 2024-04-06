@@ -1,0 +1,53 @@
+.bg{
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+
+}
+
+
+
+.home{
+    background-image: url('img/home.jpg');
+    
+}
+
+.service{
+    background-image: url('img/service.jpg');
+}
+
+
+
+.bg-instagram{
+    background-image: url('img/insta.png');
+}
+
+.advantage{
+    background-image: url('img/footer.jpg');
+}
+
+
+select{
+    background: none;
+}
+
+
+select option {
+    background: none!important;
+  }
+
+
+  .whatsapp-float {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+  }
+  
+  .whatsapp-icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: green;
+  }
